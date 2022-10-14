@@ -48,6 +48,7 @@ int main(){
                 n--;
                 str.erase(str.begin() + j);
                 j--;
+                
             }
         }
     }
